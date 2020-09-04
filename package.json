@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "favicons": "^6.0.0"
+    "favicons": "^6.2.0"
   }
 }
